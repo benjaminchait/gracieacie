@@ -1,0 +1,10 @@
+body {
+  font-family: Avenir Next;
+  font-size: 12pt;
+  padding: 10% 0;
+}
+
+#content {
+  width: 450px;
+  margin: 0 auto;
+}
